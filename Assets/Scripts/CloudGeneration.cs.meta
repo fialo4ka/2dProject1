@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 93370227f2857724c8267dfd04c665a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cloudLeftTransform: {instanceID: 0}
+  - cloudRightTransform: {instanceID: 0}
+  - cloudMidleTransform: {instanceID: 0}
+  - cloudNullTransform: {instanceID: 0}
+  - cloudLeft: {fileID: 1837927260803007472, guid: 569646b144a166547a52cee3776ba891, type: 3}
+  - cloudRight: {fileID: 7241638686865954745, guid: d356526cf66739d4f9173d78fd285e24, type: 3}
+  - cloudMidle: {fileID: 696609948262379546, guid: b79b51dd9c08036488b2724c1468807f, type: 3}
+  - cloudNull: {fileID: 5800933479343927287, guid: 85142941716114540ab3d1130283a632, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
