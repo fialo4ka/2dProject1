@@ -14,7 +14,7 @@ public class CloudGeneration : MonoBehaviour
     {
         dieSpace = GameObject.Find("DieSpace");
         kity = GameObject.Find("kity");
-        mapLength = (int)(dieSpace.transform.localScale.x - 10) / 2;
+        mapLength = (int)(dieSpace.transform.localScale.x - 30) / 2;
         kity.transform.position = new Vector3(-mapLength, 2, 0);
         clouds = new List<GameObject> { cloudNull, cloudLeft, cloudMidle, cloudRight };
         GenerateCloud();
